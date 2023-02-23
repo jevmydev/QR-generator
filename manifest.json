@@ -1,0 +1,16 @@
+{
+    "name": "QR-generator",
+    "short_name": "QR-generator",
+    "description": "Genera un código QR con una frase, URL o palabra.",
+    "keywords": ["QR Generator", "qr code", "Generar qr", "Generar código qr"],
+    "author": "Jeremy Díaz",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jevmydev/QR-generator.git"
+    },
+    "bugs": {
+        "url": "https://github.com/jevmydev/QR-generator/issues"
+    },
+    "start_url": "/index.html",
+    "homepage": "https://generatecodeqr.netlify.app/"
+}
