@@ -19,7 +19,7 @@ export function UrlCode() {
         <section>
             <div className="min-h-screen flex justify-center items-center">
                 <article className="flex flex-col items-center gap-4 mt-8">
-                    <header className="h-56">
+                    <header className="w-56 h-56">
                         <ImageCode urlCode={urlCode} />
                     </header>
                     <section>
