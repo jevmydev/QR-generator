@@ -6,10 +6,10 @@
     "author": "Jeremy Díaz",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/jevmydev/QR-generator.git"
+        "url": "git+https://github.com/jevmydev/qr-generator.git"
     },
     "bugs": {
-        "url": "https://github.com/jevmydev/QR-generator/issues"
+        "url": "https://github.com/jevmydev/qr-generator/issues"
     },
     "start_url": "/index.html",
     "homepage": "https://generatecodeqr.netlify.app/"
